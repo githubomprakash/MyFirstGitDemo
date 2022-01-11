@@ -1,0 +1,912 @@
+2021-12-24 15:33:39,189 - LT_Logger -INFO - ******************************
+2021-12-24 15:33:39,337 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 15:55:42,398 - LT_Logger -INFO - ******************************
+2021-12-24 15:55:42,555 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 15:55:42,615 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 15:55:42,860 - LT_Logger -INFO - Entered UserName
+2021-12-24 15:55:43,034 - LT_Logger -INFO - Entered Password
+2021-12-24 15:55:50,001 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 15:55:55,227 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 15:56:08,357 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 15:56:12,253 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-24 16:00:45,106 - LT_Logger -INFO - ******************************
+2021-12-24 16:00:45,269 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:00:45,338 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:00:45,566 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:00:45,728 - LT_Logger -INFO - Entered Password
+2021-12-24 16:00:53,228 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:00:58,396 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:01:10,980 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:01:14,737 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-24 16:03:11,336 - LT_Logger -INFO - ******************************
+2021-12-24 16:03:11,499 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:03:11,553 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:03:11,756 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:03:11,911 - LT_Logger -INFO - Entered Password
+2021-12-24 16:03:19,014 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:03:54,490 - LT_Logger -INFO - ******************************
+2021-12-24 16:03:54,645 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:03:54,704 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:03:54,916 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:03:55,080 - LT_Logger -INFO - Entered Password
+2021-12-24 16:04:02,568 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:04:08,013 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:04:20,867 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:17:08,026 - LT_Logger -INFO - ******************************
+2021-12-24 16:17:08,180 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:17:08,231 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:17:08,422 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:17:08,574 - LT_Logger -INFO - Entered Password
+2021-12-24 16:17:16,138 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:17:21,264 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:17:33,913 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:26:45,933 - LT_Logger -INFO - ******************************
+2021-12-24 16:26:46,092 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:26:46,148 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:26:46,341 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:26:46,494 - LT_Logger -INFO - Entered Password
+2021-12-24 16:26:53,257 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:26:58,682 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:27:11,959 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:32:04,382 - LT_Logger -INFO - ******************************
+2021-12-24 16:32:04,536 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:32:04,590 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:32:04,813 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:32:04,997 - LT_Logger -INFO - Entered Password
+2021-12-24 16:32:12,155 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:32:17,419 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:32:29,916 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:33:40,395 - LT_Logger -INFO - ******************************
+2021-12-24 16:33:40,553 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:33:40,603 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:33:40,802 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:33:40,974 - LT_Logger -INFO - Entered Password
+2021-12-24 16:33:47,923 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:33:53,033 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:34:05,631 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:35:41,212 - LT_Logger -INFO - ******************************
+2021-12-24 16:35:41,361 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:35:41,420 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:35:41,610 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:35:41,761 - LT_Logger -INFO - Entered Password
+2021-12-24 16:35:48,887 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:35:54,355 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:36:07,280 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:37:17,640 - LT_Logger -INFO - ******************************
+2021-12-24 16:37:17,794 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:37:17,844 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:37:18,037 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:37:18,185 - LT_Logger -INFO - Entered Password
+2021-12-24 16:37:25,466 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:37:31,189 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:37:43,722 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:44:07,240 - LT_Logger -INFO - ******************************
+2021-12-24 16:44:07,408 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:44:07,466 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:44:07,670 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:44:07,859 - LT_Logger -INFO - Entered Password
+2021-12-24 16:44:13,239 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:51:03,541 - LT_Logger -INFO - ******************************
+2021-12-24 16:51:03,691 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:51:03,744 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:51:04,099 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:51:04,254 - LT_Logger -INFO - Entered Password
+2021-12-24 16:51:11,649 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:51:17,042 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:51:29,912 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 16:55:37,758 - LT_Logger -INFO - ******************************
+2021-12-24 16:55:37,907 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 16:55:37,957 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 16:55:38,320 - LT_Logger -INFO - Entered UserName
+2021-12-24 16:55:38,473 - LT_Logger -INFO - Entered Password
+2021-12-24 16:55:45,718 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 16:55:51,516 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 16:56:04,247 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 17:00:25,980 - LT_Logger -INFO - ******************************
+2021-12-24 17:00:26,141 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 17:00:26,193 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 17:00:26,727 - LT_Logger -INFO - Entered UserName
+2021-12-24 17:00:26,883 - LT_Logger -INFO - Entered Password
+2021-12-24 17:00:34,508 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 17:00:40,285 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 17:00:52,824 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 17:05:37,000 - LT_Logger -INFO - ******************************
+2021-12-24 17:05:37,153 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 17:05:37,204 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 17:05:37,567 - LT_Logger -INFO - Entered UserName
+2021-12-24 17:05:37,722 - LT_Logger -INFO - Entered Password
+2021-12-24 17:05:44,920 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 17:05:50,350 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 17:06:03,485 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 17:09:25,799 - LT_Logger -INFO - ******************************
+2021-12-24 17:09:25,952 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 17:09:26,004 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 17:09:26,375 - LT_Logger -INFO - Entered UserName
+2021-12-24 17:09:26,527 - LT_Logger -INFO - Entered Password
+2021-12-24 17:09:34,007 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 17:09:39,312 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 17:09:52,195 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-24 17:10:30,301 - LT_Logger -INFO - ******************************
+2021-12-24 17:10:30,469 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 17:10:30,531 - LT_Logger -INFO - Verification Done....!!!
+2021-12-24 17:10:30,890 - LT_Logger -INFO - Entered UserName
+2021-12-24 17:10:31,050 - LT_Logger -INFO - Entered Password
+2021-12-24 17:10:38,164 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-24 17:10:43,879 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-24 17:10:56,330 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 10:57:30,798 - LT_Logger -INFO - ******************************
+2021-12-25 10:57:30,975 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 10:57:31,037 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 10:57:31,509 - LT_Logger -INFO - Entered UserName
+2021-12-25 10:57:31,658 - LT_Logger -INFO - Entered Password
+2021-12-25 10:57:48,687 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 10:57:58,050 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 10:58:11,552 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 13:42:57,199 - LT_Logger -INFO - ******************************
+2021-12-25 13:42:57,366 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 13:42:57,423 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 13:42:57,877 - LT_Logger -INFO - Entered UserName
+2021-12-25 13:42:58,035 - LT_Logger -INFO - Entered Password
+2021-12-25 13:43:05,288 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 13:43:13,761 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 13:43:27,020 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 13:46:09,593 - LT_Logger -INFO - ******************************
+2021-12-25 13:46:09,767 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 13:46:09,822 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 13:46:10,303 - LT_Logger -INFO - Entered UserName
+2021-12-25 13:46:10,458 - LT_Logger -INFO - Entered Password
+2021-12-25 13:46:17,693 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 13:46:23,254 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 13:46:35,858 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 13:53:24,844 - LT_Logger -INFO - ******************************
+2021-12-25 13:53:24,996 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 13:53:25,049 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 13:53:25,509 - LT_Logger -INFO - Entered UserName
+2021-12-25 13:53:25,665 - LT_Logger -INFO - Entered Password
+2021-12-25 13:53:33,142 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 13:53:38,681 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 13:53:51,525 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 14:00:44,860 - LT_Logger -INFO - ******************************
+2021-12-25 14:00:45,046 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 14:00:45,098 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 14:00:45,543 - LT_Logger -INFO - Entered UserName
+2021-12-25 14:00:45,706 - LT_Logger -INFO - Entered Password
+2021-12-25 14:00:53,811 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 14:00:59,290 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 14:01:12,070 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 14:10:26,483 - LT_Logger -INFO - ******************************
+2021-12-25 14:10:26,656 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 14:10:26,707 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 14:10:27,215 - LT_Logger -INFO - Entered UserName
+2021-12-25 14:10:27,370 - LT_Logger -INFO - Entered Password
+2021-12-25 14:10:34,830 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 14:10:40,303 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 14:10:52,845 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 14:48:38,620 - LT_Logger -INFO - ******************************
+2021-12-25 14:48:38,803 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 14:48:38,855 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 14:48:39,352 - LT_Logger -INFO - Entered UserName
+2021-12-25 14:48:39,513 - LT_Logger -INFO - Entered Password
+2021-12-25 14:48:46,626 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 14:48:52,816 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 14:49:06,114 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-25 14:52:33,041 - LT_Logger -INFO - ******************************
+2021-12-25 14:52:33,227 - LT_Logger -INFO - HRM Application launched.
+2021-12-25 14:52:33,282 - LT_Logger -INFO - Verification Done....!!!
+2021-12-25 14:52:33,770 - LT_Logger -INFO - Entered UserName
+2021-12-25 14:52:33,925 - LT_Logger -INFO - Entered Password
+2021-12-25 14:52:40,748 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-25 14:52:46,815 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-25 14:52:59,746 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-27 15:12:54,590 - LT_Logger -INFO - ******************************
+2021-12-27 15:12:54,763 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 15:12:54,817 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 15:12:55,260 - LT_Logger -INFO - Entered UserName
+2021-12-27 15:12:55,437 - LT_Logger -INFO - Entered Password
+2021-12-27 15:13:02,612 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 15:13:07,973 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-27 15:13:21,166 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-27 15:40:55,244 - LT_Logger -INFO - ******************************
+2021-12-27 15:40:55,392 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 15:40:55,442 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 15:40:55,792 - LT_Logger -INFO - Entered UserName
+2021-12-27 15:40:55,894 - LT_Logger -INFO - Entered Password
+2021-12-27 15:40:58,003 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 15:54:43,995 - LT_Logger -INFO - ******************************
+2021-12-27 15:54:44,151 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 15:54:44,201 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 15:54:44,562 - LT_Logger -INFO - Entered UserName
+2021-12-27 15:54:44,669 - LT_Logger -INFO - Entered Password
+2021-12-27 15:54:46,766 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 15:59:08,500 - LT_Logger -INFO - ******************************
+2021-12-27 15:59:08,656 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 15:59:08,707 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 15:59:09,069 - LT_Logger -INFO - Entered UserName
+2021-12-27 15:59:09,173 - LT_Logger -INFO - Entered Password
+2021-12-27 15:59:11,273 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 16:02:09,921 - LT_Logger -INFO - ******************************
+2021-12-27 16:02:10,072 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 16:02:10,131 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 16:02:10,476 - LT_Logger -INFO - Entered UserName
+2021-12-27 16:02:10,646 - LT_Logger -INFO - Entered Password
+2021-12-27 16:02:15,017 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 16:02:20,824 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-27 16:02:33,916 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-27 16:40:14,182 - LT_Logger -INFO - ******************************
+2021-12-27 16:40:14,336 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 16:40:14,388 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 16:40:14,835 - LT_Logger -INFO - Entered UserName
+2021-12-27 16:40:15,011 - LT_Logger -INFO - Entered Password
+2021-12-27 16:40:19,160 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 16:45:48,190 - LT_Logger -INFO - ******************************
+2021-12-27 16:45:48,344 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 16:45:48,395 - LT_Logger -INFO - Verification Done....!!!
+2021-12-27 16:45:48,781 - LT_Logger -INFO - Entered UserName
+2021-12-27 16:45:48,934 - LT_Logger -INFO - Entered Password
+2021-12-27 16:45:52,671 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-27 16:45:58,108 - LT_Logger -INFO - Clicked on Logged in....!!!
+2021-12-27 16:46:11,264 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:07:49,213 - LT_Logger -INFO - ******************************
+2021-12-28 13:07:49,370 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:07:49,416 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:07:49,774 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:07:49,925 - LT_Logger -INFO - Entered Password
+2021-12-28 13:07:53,440 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:07:58,790 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:08:07,581 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:12:02,746 - LT_Logger -INFO - ******************************
+2021-12-28 13:12:02,909 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:12:02,958 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:12:03,350 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:12:03,507 - LT_Logger -INFO - Entered Password
+2021-12-28 13:12:07,422 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:12:12,785 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:12:25,593 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:16:33,282 - LT_Logger -INFO - ******************************
+2021-12-28 13:16:33,442 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:16:33,490 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:16:33,854 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:16:34,004 - LT_Logger -INFO - Entered Password
+2021-12-28 13:16:38,422 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:16:43,722 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:16:56,086 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:16:59,967 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 13:19:28,113 - LT_Logger -INFO - ******************************
+2021-12-28 13:19:28,268 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:19:28,318 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:19:28,685 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:19:28,828 - LT_Logger -INFO - Entered Password
+2021-12-28 13:19:32,400 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:19:39,933 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:19:53,902 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:19:58,172 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 13:28:56,741 - LT_Logger -INFO - ******************************
+2021-12-28 13:28:56,901 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:28:56,953 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:28:57,354 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:28:57,505 - LT_Logger -INFO - Entered Password
+2021-12-28 13:29:01,563 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:29:07,551 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:29:19,942 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:29:23,842 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 13:49:59,362 - LT_Logger -INFO - ******************************
+2021-12-28 13:49:59,515 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:49:59,565 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 13:49:59,948 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:50:00,100 - LT_Logger -INFO - Entered Password
+2021-12-28 13:50:03,957 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 13:50:09,354 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 13:50:21,765 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 13:50:25,670 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 13:51:23,132 - LT_Logger -INFO - ******************************
+2021-12-28 13:51:23,298 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 13:51:23,524 - LT_Logger -INFO - Entered UserName
+2021-12-28 13:51:23,691 - LT_Logger -INFO - Entered Password
+2021-12-28 13:51:27,973 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:09:38,615 - LT_Logger -INFO - ******************************
+2021-12-28 14:09:38,770 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:09:38,984 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:09:39,128 - LT_Logger -INFO - Entered Password
+2021-12-28 14:09:43,295 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:11:04,329 - LT_Logger -INFO - ******************************
+2021-12-28 14:11:04,481 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:11:04,534 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:11:04,909 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:11:05,072 - LT_Logger -INFO - Entered Password
+2021-12-28 14:11:08,742 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:11:14,424 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:11:26,999 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 14:11:30,891 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 14:13:49,319 - LT_Logger -INFO - ******************************
+2021-12-28 14:13:49,470 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:13:49,689 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:13:49,837 - LT_Logger -INFO - Entered Password
+2021-12-28 14:13:53,307 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:18:52,625 - LT_Logger -INFO - ******************************
+2021-12-28 14:18:52,807 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:18:53,028 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:18:53,177 - LT_Logger -INFO - Entered Password
+2021-12-28 14:19:02,887 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:19:46,862 - LT_Logger -INFO - ******************************
+2021-12-28 14:19:47,031 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:19:47,082 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:19:47,525 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:19:47,669 - LT_Logger -INFO - Entered Password
+2021-12-28 14:19:51,032 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:19:56,842 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:20:09,573 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 14:20:13,658 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 14:21:39,385 - LT_Logger -INFO - ******************************
+2021-12-28 14:21:39,561 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:21:39,594 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:21:40,056 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:21:40,198 - LT_Logger -INFO - Entered Password
+2021-12-28 14:21:44,051 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:21:49,495 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:22:01,869 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 14:22:05,863 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 14:22:11,134 - LT_Logger -INFO - ******************************
+2021-12-28 14:22:11,284 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:22:11,449 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:22:11,597 - LT_Logger -INFO - Entered Password
+2021-12-28 14:22:16,039 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:36:53,500 - LT_Logger -INFO - ******************************
+2021-12-28 14:36:53,665 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:36:53,693 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:36:54,045 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:36:54,192 - LT_Logger -INFO - Entered Password
+2021-12-28 14:36:57,782 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:37:02,831 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:37:12,430 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:37:22,407 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:37:32,501 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:37:41,507 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 14:37:46,507 - LT_Logger -INFO - ******************************
+2021-12-28 14:37:46,656 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:37:46,825 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:37:46,973 - LT_Logger -INFO - Entered Password
+2021-12-28 14:37:50,767 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:39:51,413 - LT_Logger -INFO - ******************************
+2021-12-28 14:39:51,559 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:39:51,588 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:39:51,924 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:39:52,071 - LT_Logger -INFO - Entered Password
+2021-12-28 14:39:55,416 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:40:00,646 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:40:11,363 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:40:21,142 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:40:31,054 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:41:01,966 - LT_Logger -INFO - ******************************
+2021-12-28 14:41:02,110 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:41:02,271 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:41:02,410 - LT_Logger -INFO - Entered Password
+2021-12-28 14:41:05,776 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:41:51,921 - LT_Logger -INFO - ******************************
+2021-12-28 14:41:52,082 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 14:41:52,112 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 14:41:52,499 - LT_Logger -INFO - Entered UserName
+2021-12-28 14:41:52,649 - LT_Logger -INFO - Entered Password
+2021-12-28 14:41:56,445 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 14:42:01,661 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:42:11,762 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 14:42:22,301 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 15:42:22,340 - LT_Logger -INFO - ******************************
+2021-12-28 15:42:22,490 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:42:22,684 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:42:22,830 - LT_Logger -INFO - Entered Password
+2021-12-28 15:42:27,273 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:44:27,417 - LT_Logger -INFO - ******************************
+2021-12-28 15:44:27,575 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:44:27,787 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:44:27,939 - LT_Logger -INFO - Entered Password
+2021-12-28 15:44:31,300 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:46:28,069 - LT_Logger -INFO - ******************************
+2021-12-28 15:46:28,226 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:46:28,258 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 15:46:28,591 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:46:28,741 - LT_Logger -INFO - Entered Password
+2021-12-28 15:46:33,156 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:50:28,983 - LT_Logger -INFO - ******************************
+2021-12-28 15:50:29,136 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:50:29,331 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:50:29,495 - LT_Logger -INFO - Entered Password
+2021-12-28 15:50:33,664 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:55:57,940 - LT_Logger -INFO - ******************************
+2021-12-28 15:55:58,095 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:55:58,301 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:55:58,447 - LT_Logger -INFO - Entered Password
+2021-12-28 15:56:01,892 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:56:04,904 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 15:56:15,292 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 15:58:16,800 - LT_Logger -INFO - ******************************
+2021-12-28 15:58:16,963 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 15:58:16,993 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 15:58:17,174 - LT_Logger -INFO - Entered UserName
+2021-12-28 15:58:17,321 - LT_Logger -INFO - Entered Password
+2021-12-28 15:58:21,567 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 15:58:24,585 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 15:58:39,611 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 15:58:43,717 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:01:14,534 - LT_Logger -INFO - ******************************
+2021-12-28 16:01:14,693 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:01:14,721 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:01:15,080 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:01:15,226 - LT_Logger -INFO - Entered Password
+2021-12-28 16:01:19,410 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:01:25,366 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:01:38,006 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:01:42,547 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:01:47,746 - LT_Logger -INFO - ******************************
+2021-12-28 16:01:47,892 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:01:47,902 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:01:48,069 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:01:48,215 - LT_Logger -INFO - Entered Password
+2021-12-28 16:01:53,066 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:01:56,073 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:02:10,333 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:02:14,423 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:10:30,576 - LT_Logger -INFO - ******************************
+2021-12-28 16:10:30,729 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:10:30,762 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:10:31,158 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:10:31,328 - LT_Logger -INFO - Entered Password
+2021-12-28 16:10:35,001 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:10:40,600 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:10:53,260 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:10:57,113 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:11:01,919 - LT_Logger -INFO - ******************************
+2021-12-28 16:11:02,065 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:11:02,075 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:11:02,261 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:11:02,413 - LT_Logger -INFO - Entered Password
+2021-12-28 16:11:06,541 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:11:09,551 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:11:24,412 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:11:29,219 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:21:02,719 - LT_Logger -INFO - ******************************
+2021-12-28 16:21:02,871 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:21:02,899 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:21:03,228 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:21:03,371 - LT_Logger -INFO - Entered Password
+2021-12-28 16:21:07,805 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:21:13,499 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:21:26,153 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:21:30,387 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:21:35,395 - LT_Logger -INFO - ******************************
+2021-12-28 16:21:35,543 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:21:35,553 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:21:35,721 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:21:35,869 - LT_Logger -INFO - Entered Password
+2021-12-28 16:21:40,004 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:21:43,008 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:21:55,204 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:22:07,379 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:22:19,565 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:24:27,764 - LT_Logger -INFO - ******************************
+2021-12-28 16:24:27,918 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:24:27,949 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:24:28,304 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:24:28,450 - LT_Logger -INFO - Entered Password
+2021-12-28 16:24:33,201 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:24:38,533 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:24:51,042 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:24:55,419 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:25:00,417 - LT_Logger -INFO - ******************************
+2021-12-28 16:25:00,560 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:25:00,568 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:25:00,735 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:25:00,879 - LT_Logger -INFO - Entered Password
+2021-12-28 16:25:05,067 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:25:08,077 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:25:23,057 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:25:26,816 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:31:42,460 - LT_Logger -INFO - ******************************
+2021-12-28 16:31:42,623 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:31:42,653 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:31:42,765 - LT_Logger -INFO - ******************************
+2021-12-28 16:31:42,904 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:31:42,926 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:31:42,937 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:31:43,068 - LT_Logger -INFO - Entered Password
+2021-12-28 16:31:43,294 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:31:43,433 - LT_Logger -INFO - Entered Password
+2021-12-28 16:31:47,323 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:31:48,484 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:31:50,330 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:31:54,444 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:32:05,476 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:32:06,844 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:32:09,532 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:32:10,771 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:37:09,323 - LT_Logger -INFO - ******************************
+2021-12-28 16:37:09,473 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:37:09,509 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:37:09,663 - LT_Logger -INFO - ******************************
+2021-12-28 16:37:09,813 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:37:09,823 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:37:09,890 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:37:10,017 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:37:10,051 - LT_Logger -INFO - Entered Password
+2021-12-28 16:37:10,164 - LT_Logger -INFO - Entered Password
+2021-12-28 16:37:13,940 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:37:14,643 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:37:17,648 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:37:19,207 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:37:31,721 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:37:32,557 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:37:35,651 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:37:36,461 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:50:59,843 - LT_Logger -INFO - ******************************
+2021-12-28 16:50:59,888 - LT_Logger -INFO - ******************************
+2021-12-28 16:51:00,017 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:51:00,051 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:51:00,061 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 16:51:00,070 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 16:51:00,260 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:51:00,402 - LT_Logger -INFO - Entered UserName
+2021-12-28 16:51:00,424 - LT_Logger -INFO - Entered Password
+2021-12-28 16:51:00,555 - LT_Logger -INFO - Entered Password
+2021-12-28 16:51:05,737 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:51:05,740 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 16:51:08,747 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 16:51:11,697 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 16:51:23,326 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 16:51:24,272 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 16:51:27,191 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 16:51:28,184 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 17:38:14,434 - LT_Logger -INFO - ******************************
+2021-12-28 17:38:14,597 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 17:38:14,626 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 17:38:14,986 - LT_Logger -INFO - Entered UserName
+2021-12-28 17:38:15,131 - LT_Logger -INFO - Entered Password
+2021-12-28 17:38:19,519 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 17:38:25,160 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 17:38:38,175 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 17:38:42,156 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 17:38:47,257 - LT_Logger -INFO - ******************************
+2021-12-28 17:38:47,407 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 17:38:47,415 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 17:38:47,583 - LT_Logger -INFO - Entered UserName
+2021-12-28 17:38:47,725 - LT_Logger -INFO - Entered Password
+2021-12-28 17:38:51,782 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 17:38:54,790 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 17:39:09,758 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 17:39:13,923 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 17:41:10,888 - LT_Logger -INFO - ******************************
+2021-12-28 17:41:11,053 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 17:41:11,087 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 17:41:11,271 - LT_Logger -INFO - Entered UserName
+2021-12-28 17:41:11,419 - LT_Logger -INFO - Entered Password
+2021-12-28 17:41:15,250 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 17:41:18,267 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 17:41:32,951 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-28 17:41:37,031 - LT_Logger -INFO - Successfully Logout....!!!
+2021-12-28 17:44:28,605 - LT_Logger -INFO - ******************************
+2021-12-28 17:44:28,774 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 17:44:28,803 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 17:44:29,145 - LT_Logger -INFO - Entered UserName
+2021-12-28 17:44:29,292 - LT_Logger -INFO - Entered Password
+2021-12-28 17:44:33,072 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 17:44:38,702 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-28 17:44:51,794 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-28 17:44:57,987 - LT_Logger -INFO - ******************************
+2021-12-28 17:44:58,133 - LT_Logger -INFO - HRM Application launched.
+2021-12-28 17:44:58,141 - LT_Logger -INFO - Verification Done....!!!
+2021-12-28 17:44:58,316 - LT_Logger -INFO - Entered UserName
+2021-12-28 17:44:58,463 - LT_Logger -INFO - Entered Password
+2021-12-28 17:45:02,218 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-28 17:45:05,223 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-28 17:45:19,469 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-29 09:28:51,141 - LT_Logger -INFO - ******************************
+2021-12-29 09:28:51,291 - LT_Logger -INFO - HRM Application launched.
+2021-12-29 09:28:51,321 - LT_Logger -INFO - Verification Done....!!!
+2021-12-29 09:28:51,709 - LT_Logger -INFO - Entered UserName
+2021-12-29 09:28:51,854 - LT_Logger -INFO - Entered Password
+2021-12-29 09:28:55,992 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-29 09:29:01,735 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-29 09:29:15,369 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-29 09:29:21,809 - LT_Logger -INFO - ******************************
+2021-12-29 09:29:21,949 - LT_Logger -INFO - HRM Application launched.
+2021-12-29 09:29:21,959 - LT_Logger -INFO - Verification Done....!!!
+2021-12-29 09:29:22,125 - LT_Logger -INFO - Entered UserName
+2021-12-29 09:29:22,269 - LT_Logger -INFO - Entered Password
+2021-12-29 09:29:26,919 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-29 09:29:29,926 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-29 09:29:45,201 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-30 09:35:11,358 - LT_Logger -INFO - ******************************
+2021-12-30 09:35:11,512 - LT_Logger -INFO - HRM Application launched.
+2021-12-30 09:35:11,544 - LT_Logger -INFO - Verification Done....!!!
+2021-12-30 09:35:11,892 - LT_Logger -INFO - Entered UserName
+2021-12-30 09:35:12,055 - LT_Logger -INFO - Entered Password
+2021-12-30 09:35:16,533 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-30 09:35:22,361 - LT_Logger -INFO - Enter Customer Details....!!!
+2021-12-30 09:35:35,047 - LT_Logger -INFO - Details Are Added....!!!
+2021-12-30 09:35:41,123 - LT_Logger -INFO - ******************************
+2021-12-30 09:35:41,263 - LT_Logger -INFO - HRM Application launched.
+2021-12-30 09:35:41,271 - LT_Logger -INFO - Verification Done....!!!
+2021-12-30 09:35:41,441 - LT_Logger -INFO - Entered UserName
+2021-12-30 09:35:41,588 - LT_Logger -INFO - Entered Password
+2021-12-30 09:35:45,170 - LT_Logger -INFO - Application Logged in....!!!
+2021-12-30 09:35:48,177 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-30 09:36:02,865 - LT_Logger -INFO - Enter Search Customer Details Added....!!!
+2021-12-31 13:42:00,486 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 13:42:01,270 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 13:42:01,628 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 13:42:11,500 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 13:42:19,957 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 13:42:28,887 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 13:42:33,427 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 13:42:33,467 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 13:42:37,290 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 13:42:41,700 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 13:42:42,525 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 13:42:42,860 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 13:42:52,771 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-31 13:43:27,157 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 13:43:27,915 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 13:43:28,376 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 13:43:38,266 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 13:43:46,602 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 13:43:55,651 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 13:43:59,564 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 13:44:01,250 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 13:44:01,982 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 13:44:02,352 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 13:44:11,293 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-31 13:44:18,816 - LT_Logger -INFO - Logout From the Application....!!!
+2021-12-31 13:44:22,937 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 14:42:01,950 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 14:42:05,321 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 14:42:05,367 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 14:42:06,155 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 14:42:06,498 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 14:42:16,007 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 14:42:23,963 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 14:42:32,750 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 14:42:37,291 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 14:42:37,337 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 14:42:41,483 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 14:42:44,592 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 14:42:45,763 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 14:42:45,766 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 14:42:46,609 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 14:42:46,919 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 14:42:56,190 - LT_Logger -INFO - Enter Search Customer Details....!!!
+2021-12-31 14:43:03,566 - LT_Logger -INFO - Logout From the Application....!!!
+2021-12-31 14:43:07,647 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 15:04:37,351 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 15:04:39,786 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 15:04:39,836 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 15:04:40,591 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 15:04:40,924 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 15:04:51,186 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 15:04:59,235 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 15:05:08,261 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 15:05:12,334 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 15:05:12,376 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 15:05:16,418 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 15:26:56,362 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 15:26:58,737 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 15:26:58,781 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 15:26:59,643 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 15:26:59,980 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:03:24,211 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:03:28,958 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:03:29,011 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:03:29,698 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:03:30,078 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:03:39,602 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:03:47,926 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:03:56,871 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:04:01,357 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:04:01,410 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:04:05,144 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:13:12,613 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:13:15,465 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:13:15,514 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:13:16,396 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:13:16,747 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:13:26,809 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:13:34,907 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:13:43,971 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:13:47,906 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:13:47,962 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:13:51,710 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:15:10,983 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:15:13,533 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:15:13,580 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:15:14,300 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:15:14,634 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:15:24,171 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:15:32,669 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:15:41,718 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:15:45,619 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:15:45,675 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:15:49,440 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:17:10,518 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:17:13,056 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:17:13,102 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:17:18,366 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:17:18,737 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:18:10,021 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:18:21,732 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:18:30,810 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:18:35,364 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:18:35,416 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:18:39,674 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:19:10,625 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:19:13,140 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:19:13,186 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:19:13,584 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:19:13,948 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:19:23,378 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:19:31,935 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:19:41,012 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:19:44,848 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:19:44,896 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:19:48,622 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:27:37,655 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:27:40,788 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:27:40,833 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:27:41,238 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:27:41,604 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:27:50,589 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:27:58,530 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:28:07,529 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:28:11,390 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:28:11,435 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:28:15,207 - LT_Logger -INFO - Closed the Browser....!!!
+2021-12-31 17:32:34,168 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2021-12-31 17:32:36,594 - LT_Logger -INFO - This is Configuraton....!!!
+2021-12-31 17:32:36,639 - LT_Logger -INFO - Open Application....!!!
+2021-12-31 17:32:37,065 - LT_Logger -INFO - Enter Credentials....!!!
+2021-12-31 17:32:37,408 - LT_Logger -INFO - Click on Login Button....!!!
+2021-12-31 17:32:46,701 - LT_Logger -INFO - Click On Add Customer....!!!
+2021-12-31 17:32:54,660 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2021-12-31 17:33:03,634 - LT_Logger -INFO - Save Customer Details....!!!
+2021-12-31 17:33:07,537 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2021-12-31 17:33:07,582 - LT_Logger -INFO - Logout from the Application....!!!
+2021-12-31 17:33:11,331 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-03 09:41:33,296 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-03 09:41:36,999 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-03 09:41:37,063 - LT_Logger -INFO - Open Application....!!!
+2022-01-03 09:41:37,807 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-03 09:41:38,152 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-03 09:41:47,870 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-03 09:41:56,054 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-03 09:42:05,011 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-03 09:42:09,131 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-03 09:42:09,177 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-03 09:42:13,254 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 12:08:22,821 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 12:08:25,310 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 12:08:25,372 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 12:08:25,780 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 12:08:26,087 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 12:08:34,700 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 12:08:42,787 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 12:08:51,727 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 12:08:55,705 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 12:08:55,760 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 12:08:59,520 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 12:29:01,195 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 12:29:05,666 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 12:29:05,719 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 12:29:06,207 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 12:29:06,615 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 12:29:15,684 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 12:29:23,387 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 12:29:32,233 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 12:29:36,023 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 12:29:36,107 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 12:29:39,862 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:13:00,750 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:13:03,473 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:13:03,519 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:13:04,241 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:13:04,621 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:13:13,956 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:13:22,130 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:13:31,022 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:13:34,804 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:13:34,859 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:13:38,608 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:26:11,970 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:26:14,755 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:26:14,799 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:26:15,206 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:26:15,650 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:26:24,430 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:26:32,169 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:26:41,203 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:26:45,178 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:26:45,231 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:26:48,942 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:27:05,727 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:27:08,430 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:27:08,480 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:27:08,882 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:27:09,221 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:27:17,951 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:27:25,919 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:27:34,990 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:27:38,885 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:27:38,948 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:27:42,726 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:28:06,391 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:28:09,016 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:28:09,067 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:28:09,482 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:28:09,859 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:28:18,562 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:28:26,542 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:28:35,662 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:28:39,913 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:28:39,969 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:28:43,767 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:29:01,333 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:29:04,268 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:29:04,321 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:29:05,083 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:29:05,468 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:29:14,458 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:29:22,512 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:29:31,615 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:29:35,765 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:29:35,828 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:29:39,596 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:30:10,749 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:30:14,139 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:30:14,186 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:30:14,605 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:30:14,960 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:30:23,250 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:30:31,290 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:30:40,425 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:30:44,199 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:30:44,256 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:30:48,411 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:31:04,620 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:31:07,211 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:31:07,255 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:31:07,656 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:31:07,982 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:31:16,615 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:31:24,675 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:31:33,738 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:31:37,691 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:31:37,742 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:31:41,594 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:32:36,386 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:32:39,123 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:32:39,176 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:32:39,588 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:32:39,948 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:32:49,573 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:32:57,675 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:33:06,752 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:33:10,520 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:33:10,568 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:33:14,638 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:33:30,801 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:33:33,356 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:33:33,406 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:33:33,776 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:33:34,136 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:33:43,116 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:33:50,915 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:33:59,997 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:34:03,983 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:34:04,040 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:34:07,793 - LT_Logger -INFO - Closed the Browser....!!!
+2022-01-07 13:34:24,326 - LT_Logger -INFO - Driver Setup for Launching the application....!!!
+2022-01-07 13:34:27,024 - LT_Logger -INFO - This is Configuraton....!!!
+2022-01-07 13:34:27,078 - LT_Logger -INFO - Open Application....!!!
+2022-01-07 13:34:27,786 - LT_Logger -INFO - Enter Credentials....!!!
+2022-01-07 13:34:28,271 - LT_Logger -INFO - Click on Login Button....!!!
+2022-01-07 13:34:39,040 - LT_Logger -INFO - Click On Add Customer....!!!
+2022-01-07 13:34:47,284 - LT_Logger -INFO - Enter Add Customer Details....!!!
+2022-01-07 13:34:56,448 - LT_Logger -INFO - Save Customer Details....!!!
+2022-01-07 13:35:00,231 - LT_Logger -INFO - Verify Text Of Add Customer....!!!
+2022-01-07 13:35:00,285 - LT_Logger -INFO - Logout from the Application....!!!
+2022-01-07 13:35:04,013 - LT_Logger -INFO - Closed the Browser....!!!
